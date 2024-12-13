@@ -16,6 +16,10 @@ The source code for the application is organized into several files:
 #### Prerequisites:
 - Node.js and npm installed on your system.
 - MySQL database set up and running.
+- go through this website to understand the website and the dom for scraping
+```bash
+https://www.x-rates.com/
+```
 
 #### Steps:
 
